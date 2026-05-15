@@ -1,0 +1,4 @@
+
+[behave]
+paths=src/features
+
