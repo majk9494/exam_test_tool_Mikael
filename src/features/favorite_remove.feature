@@ -1,8 +1,7 @@
 
-  Feature: Remove Favorite
+Feature: Remove Favorite
 
-  Scenario: User removes favorite book
-
+  Scenario: User removes a favorite book
     Given I open the reading list page
     When I favorite a book
     And I remove favorite from the book
